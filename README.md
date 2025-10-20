@@ -2,6 +2,9 @@
 
 A plugin for the InfoPanel app that leverages `PresentMonFps` to monitor and display real-time performance metrics for fullscreen applications.
 
+**NOTE!** This version is not compatible with games that use kernel level anitcheat, like Battlefield 6, Valorant etc. 
+To capture FPS and metrics for games like that, you can use InfoPanel.RTSS. https://github.com/F3NN3X/InfoPanel.RTSS
+
 ## Overview
 
 InfoPanel.FPS provides detailed performance statistics for running fullscreen applications, enabling users to monitor gaming performance in real-time through InfoPanel's interface. The plugin tracks FPS, frame times, and low percentile data, updating every second with efficient event-driven detection.
